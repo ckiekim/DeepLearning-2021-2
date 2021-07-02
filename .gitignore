@@ -3,6 +3,8 @@
 # directory/
 exercise.ipynb
 model/
+etriaikey.txt
+kakaoapikey.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
